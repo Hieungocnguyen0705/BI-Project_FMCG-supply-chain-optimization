@@ -23,7 +23,8 @@ This heatmap highlights regions with high and low demand levels across different
 This scatter plot shows the alignment between supply capacity and demand score for each warehouse.
 
 ![Supply-Demand Alignment Chart](scatter.png)
-![Supply-Demand Aliggnment Charts].(scatterXbar&Ybar.png)
+
+![Supply-Demand Aliggnment Charts].(scatterwithXbar&Ybar.png)
  
  
  ## RegressionModel
