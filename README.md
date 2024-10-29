@@ -24,9 +24,8 @@ This scatter plot shows the alignment between supply capacity and demand score f
 
 ![Supply-Demand Alignment Chart](Scatter.png)
 
-![Supply-Demand Aliggnment Charts].(ScatterwithXbar&Ybar.png)
- 
- 
+![Supply-Demand Alignment Charts](ScatterwithXbar&Ybar.png)
+
  ## RegressionModel
- This scatter plot shows how the regression model look like after the optimal quantity of products is identified
- ![Regression-Model].(RegressionModel.png)
+ This scatter plot shows how the regression model looks like after the optimal quantity of products is identified
+ ![Regression-Model](RegressionModel.png)
